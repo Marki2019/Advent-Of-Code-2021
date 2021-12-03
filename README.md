@@ -1,2 +1,2 @@
 # Advent-Of-Code-2021
-Bodged together code that is probably shitty, but it still works
+This repo contains some very shitty code that Somehow works.
