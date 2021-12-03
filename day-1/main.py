@@ -1,4 +1,4 @@
-// part 1
+# part 1
 openstuff = open('input.txt', 'r').readlines()
 b = list(map(int, openstuff))
 
@@ -9,4 +9,4 @@ for x in range(len(b) - 1):
         count += 1
 
 print(count)
-// I'll add part 2 when I'm done with it
+# I'll add part 2 when I'm done with it
